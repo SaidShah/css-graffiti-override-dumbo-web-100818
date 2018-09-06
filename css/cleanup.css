@@ -23,3 +23,7 @@ body #wall #tag-2{
 #wall .parent:last-of-type{
     display: none;
 }
+
+#wall .parent #tag-7 .slick {
+    display: none;
+}
